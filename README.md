@@ -9,9 +9,9 @@ I am Kenneth Wong.
 
 ### Connect with me:
 
-[<img align height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
-[<img align height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][Medium]
-[<img align height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][Twitter]
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][Medium]
+[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][Twitter]
 
 
 [website]: https://kennethwong12.netlify.app/
