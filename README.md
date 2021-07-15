@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**KHwong12/KHwong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kenneth Wong.
 
-Here are some ideas to get you started:
+- I work with Geographic Information System (GIS), geospatial data and maps
+- I write articles on understanding cities and urban development with spatial data
+- I work as a Teaching Assistant and Demonstrator in the Department of Urban Planning and Design, University of Hong Kong
+- Feel free to check my [portfolio](https://kennethwong12.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
+[<img align height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][Medium]
+[<img align height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][Twitter]
+
+
+[website]: https://kennethwong12.netlify.app/
+[Medium]: https://khwongk12.medium.com/
+[Twitter]: https://twitter.com/Kenneth_KHW
+[LinkedIn]: https://www.linkedin.com/in/kenneth-wong-91b390146
