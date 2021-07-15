@@ -18,14 +18,24 @@ I am Kenneth Wong.
 
 ---
 
-### Language and Tools 🛠 :
+## Language and Tools 🛠 :
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/qgis.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leaflet.svg" />
+
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/r.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rstudio.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
 
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/scss.svg" />
+
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
+
 
 <br />
 
