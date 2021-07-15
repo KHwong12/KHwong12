@@ -30,6 +30,13 @@ I am Kenneth Wong.
 
 <br />
 
+---
+
+### Blog Posts 📚 :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://kennethwong12.netlify.app/
 [Medium]: https://khwongk12.medium.com/
 [Twitter]: https://twitter.com/Kenneth_KHW
