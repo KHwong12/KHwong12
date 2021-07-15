@@ -7,7 +7,6 @@ I am Kenneth Wong.
 - I work as a Teaching Assistant and Demonstrator in the Department of Urban Planning and Design, University of Hong Kong
 - Feel free to check my [portfolio](https://kennethwong12.netlify.app/)
 
-<br />
 
 ### Connect with me 👨‍💻 :
 
@@ -31,6 +30,12 @@ I am Kenneth Wong.
 <br />
 
 ---
+
+### Medium Articles 📰 🗺️
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
 
 ### Blog Posts 📚 :
 

@@ -1,0 +1,16 @@
+name: Latest Medium articles
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 every day
+  workflow_dispatch:
+jobs:
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM"
+          commit_message: "Update README with latest Medium articles"
+          feed_list: "https://khwongk12.medium.com/feed"
