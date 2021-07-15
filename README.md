@@ -1,11 +1,12 @@
 ### Hi there 👋 🌏 🗺️ 📊
 
-I am Kenneth Wong.
+I am Kenneth Wong, a geospatial data analyst, an urbanist and a map nerd
 
 - I work with Geographic Information System (GIS), geospatial data and maps
 - I write articles on understanding cities and urban development with spatial data
 - I work as a Teaching Assistant and Demonstrator in the Department of Urban Planning and Design, University of Hong Kong
-- Feel free to check my [portfolio](https://kennethwong12.netlify.app/)
+
+Feel free to check my [**web portfolio**](https://kennethwong12.netlify.app/) for all major projects I have created!
 
 
 ## Connect with me 👨‍💻 
@@ -14,6 +15,7 @@ I am Kenneth Wong.
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][Medium]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][Twitter]
 
+<br />
 <br />
 
 ## Language and Tools 🛠 
@@ -36,9 +38,6 @@ I am Kenneth Wong.
 
 
 <br />
-
----
-
 <br />
 
 ## Medium Articles 📰 🗺️
