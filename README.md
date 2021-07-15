@@ -31,7 +31,7 @@ I am Kenneth Wong.
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />
-<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/scss.svg" />
+<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
