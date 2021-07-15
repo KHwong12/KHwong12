@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🌏 🗺️ 📊
 
 I am Kenneth Wong.
 
@@ -8,7 +8,7 @@ I am Kenneth Wong.
 - Feel free to check my [portfolio](https://kennethwong12.netlify.app/)
 
 
-### Connect with me 👨‍💻 :
+## Connect with me 👨‍💻 
 
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][Medium]
@@ -16,9 +16,7 @@ I am Kenneth Wong.
 
 <br />
 
----
-
-## Language and Tools 🛠 :
+## Language and Tools 🛠 
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/qgis.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leaflet.svg" />
@@ -41,7 +39,9 @@ I am Kenneth Wong.
 
 ---
 
-### Medium Articles 📰 🗺️
+<br />
+
+## Medium Articles 📰 🗺️
 
 <!-- MEDIUM:START -->
 - [香港有咩設施係密過公廁？](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E6%9C%89%E5%92%A9%E8%A8%AD%E6%96%BD%E4%BF%82%E5%AF%86%E9%81%8E%E5%85%AC%E5%BB%81-3b4895610897?source=rss-8b55cde22f50------2)
@@ -52,7 +52,7 @@ I am Kenneth Wong.
 <!-- MEDIUM:END -->
 
 
-### Blog Posts 📚 :
+## Blog Posts 📚 
 
 <!-- BLOG-POST-LIST:START -->
 - [Add npm to existing ArcGIS JS API web app project](https://urbandatapalette.com/post/2021-06-arcgis-js-api-env-setup/)
