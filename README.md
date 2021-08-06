@@ -54,11 +54,11 @@ Feel free to check my [**web portfolio**](https://kennethwong12.netlify.app/) fo
 ## Blog Posts 📚 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create an animated map of paper cut symbology](https://urbandatapalette.com/post/2021-08-paper-cut-gif/)
 - [Add npm to existing ArcGIS JS API web app project](https://urbandatapalette.com/post/2021-06-arcgis-js-api-env-setup/)
 - [Visualising sunrise, sunset and daylength around summer solstice](https://urbandatapalette.com/post/2021-06-daytime-solstice-viz/)
 - [R Markdown tricks for generating HTML reports](https://urbandatapalette.com/post/2021-06-rmd-tricks/)
 - [Creating 3D vintage topo maps in ArcGIS Pro - lessons learnt](https://urbandatapalette.com/post/2021-06-3d-topo-map-notes/)
-- [7-Eleven vs. Circle K map: How to make](https://urbandatapalette.com/post/2021-04-convenience-store-map-making/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://kennethwong12.netlify.app/
