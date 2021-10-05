@@ -43,11 +43,11 @@ Feel free to check my [**web portfolio**](https://kennethwong12.netlify.app/) fo
 ## Medium Articles 📰 🗺️
 
 <!-- MEDIUM:START -->
+- [高收入嘅租戶地區？](https://khwongk12.medium.com/%E9%AB%98%E6%94%B6%E5%85%A5%E5%98%85%E7%A7%9F%E6%88%B6%E5%9C%B0%E5%8D%80-1dc311620fe3?source=rss-8b55cde22f50------2)
 - [Mapping convenience stores with waffle grids](https://towardsdatascience.com/mapping-convenience-stores-with-waffle-grids-d0196901418a?source=rss-8b55cde22f50------2)
 - [香港有咩設施係密過公廁？](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E6%9C%89%E5%92%A9%E8%A8%AD%E6%96%BD%E4%BF%82%E5%AF%86%E9%81%8E%E5%85%AC%E5%BB%81-3b4895610897?source=rss-8b55cde22f50------2)
 - [7-Eleven vs. Circle K: Where does one have more stores than the other](https://khwongk12.medium.com/7-eleven-vs-circle-k-5964b8f008e4?source=rss-8b55cde22f50------2)
 - [到底7–11密過OK幾多？](https://khwongk12.medium.com/%E5%88%B0%E5%BA%957-11%E5%AF%86%E9%81%8Eok%E5%B9%BE%E5%A4%9A-de670afc448?source=rss-8b55cde22f50------2)
-- [Interactive visualisation of commute pattern in Hong Kong](https://khwongk12.medium.com/interactive-visualisation-of-commute-pattern-in-hong-kong-3a54b021076d?source=rss-8b55cde22f50------2)
 <!-- MEDIUM:END -->
 
 
