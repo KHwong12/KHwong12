@@ -54,11 +54,11 @@ Feel free to check my [**web portfolio**](https://kennethwong12.netlify.app/) fo
 ## Blog Posts 📚 
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert GML/GeoJSON to shapefile with QGIS](https://urbandatapalette.com/post/2021-10-convert-spatial-data-qgis/)
 - [Create spatial square/hexagon grids and count points inside in R with sf](https://urbandatapalette.com/post/2021-08-tessellation-sf/)
 - [How to create an animated map of paper cut symbology](https://urbandatapalette.com/post/2021-08-paper-cut-gif/)
 - [Add npm to existing ArcGIS JS API web app project](https://urbandatapalette.com/post/2021-06-arcgis-js-api-env-setup/)
 - [Visualising sunrise, sunset and daylength around summer solstice](https://urbandatapalette.com/post/2021-06-daytime-solstice-viz/)
-- [R Markdown tricks for generating HTML reports](https://urbandatapalette.com/post/2021-06-rmd-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://kennethwong12.netlify.app/
