@@ -1,4 +1,4 @@
-### Hi there 👋 🌏 🗺️ 📊
+![30map_cover](https://user-images.githubusercontent.com/29334677/138759176-57aa6113-6873-481d-9d44-56d610cb5563.png)
 
 I am Kenneth Wong, a geospatial data analyst, an urbanist and a map nerd
 
