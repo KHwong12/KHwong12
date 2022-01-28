@@ -20,36 +20,51 @@ Feel free to check my [**web portfolio**](https://kennethwong12.netlify.app/) fo
 
 ## Language and Tools 🛠 
 
-### Geospatial
+Geospatial
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/qgis.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leaflet.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mapbox.svg" />
 
-### Data analysis
+<br />
+<br />
+
+Data analysis
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/r.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" />
 
-### Web development
+<br />
+<br />
+
+Web development
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />
 
-### Development
+<br />
+<br />
+
+Development
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" />
 
-### IDE
+<br />
+<br />
+
+IDE
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rstudio.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
 
-### Miscellaneous
+<br />
+<br />
+
+Miscellaneous
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" />
