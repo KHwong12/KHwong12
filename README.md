@@ -86,11 +86,11 @@ Miscellaneous
 ## Blog Posts 📚 
 
 <!-- BLOG-POST-LIST:START -->
+- [Postmortem of my #30DayMapChallenge 2021](https://urbandatapalette.com/post/2022-01-map-challenge-2021/)
 - [Convert GML/GeoJSON to shapefile with QGIS](https://urbandatapalette.com/post/2021-10-convert-spatial-data-qgis/)
 - [Create spatial square/hexagon grids and count points inside in R with sf](https://urbandatapalette.com/post/2021-08-tessellation-sf/)
 - [How to create an animated map of paper cut symbology](https://urbandatapalette.com/post/2021-08-paper-cut-gif/)
 - [Add npm to existing ArcGIS JS API web app project](https://urbandatapalette.com/post/2021-06-arcgis-js-api-env-setup/)
-- [Visualising sunrise, sunset and daylength around summer solstice](https://urbandatapalette.com/post/2021-06-daytime-solstice-viz/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://kennethwong12.netlify.app/
