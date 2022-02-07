@@ -75,11 +75,11 @@ Miscellaneous
 ## Medium Articles 📰 🗺️
 
 <!-- MEDIUM:START -->
+- [Postmortem of my #30DayMapChallenge 2021](https://khwongk12.medium.com/postmortem-of-my-30daymapchallenge-2021-bea278c1f472?source=rss-8b55cde22f50------2)
 - [香港中英文街名後綴地圖](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%8B%B1%E6%96%87%E8%A1%97%E5%90%8D%E5%BE%8C%E7%B6%B4%E5%9C%B0%E5%9C%96-efdda08d85bc?source=rss-8b55cde22f50------2)
 - [香港專營巴士公司服務範圍一覽](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E5%B0%88%E7%87%9F%E5%B7%B4%E5%A3%AB%E5%85%AC%E5%8F%B8%E6%9C%8D%E5%8B%99%E7%AF%84%E5%9C%8D%E4%B8%80%E8%A6%BD-8b2f5a091628?source=rss-8b55cde22f50------2)
 - [高收入嘅租戶地區？](https://khwongk12.medium.com/%E9%AB%98%E6%94%B6%E5%85%A5%E5%98%85%E7%A7%9F%E6%88%B6%E5%9C%B0%E5%8D%80-1dc311620fe3?source=rss-8b55cde22f50------2)
 - [Mapping convenience stores with waffle grids](https://towardsdatascience.com/mapping-convenience-stores-with-waffle-grids-d0196901418a?source=rss-8b55cde22f50------2)
-- [香港有咩設施係密過公廁？](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E6%9C%89%E5%92%A9%E8%A8%AD%E6%96%BD%E4%BF%82%E5%AF%86%E9%81%8E%E5%85%AC%E5%BB%81-3b4895610897?source=rss-8b55cde22f50------2)
 <!-- MEDIUM:END -->
 
 
