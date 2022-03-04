@@ -1,12 +1,15 @@
-![30map_cover](https://user-images.githubusercontent.com/29334677/138759176-57aa6113-6873-481d-9d44-56d610cb5563.png)
+<!-- ![30map_cover](https://user-images.githubusercontent.com/29334677/138759176-57aa6113-6873-481d-9d44-56d610cb5563.png) -->
 
-I am Kenneth Wong, a geospatial data analyst, an urbanist and a map nerd
+I am Kenneth Wong. I am a geospatial data analyst with background in urban planning. I currently work as a Teaching Assistant for the [Master of Urban Analytics programme](https://www.arch.hku.hk/programmes/upad/master-of-science-in-urban-analytics/) in [Department of Urban Planning and Design, HKU](https://www.arch.hku.hk/programmes_/upad/).
 
-- I work with Geographic Information System (GIS), geospatial data and maps
-- I write articles on understanding cities and urban development with spatial data
-- I work as a Teaching Assistant and Demonstrator in the Department of Urban Planning and Design, University of Hong Kong
+I enjoy making maps (both static and interactive), analysing things in cities, as well as building cool web map applications. Below are some examples:
 
-Feel free to check my [**web portfolio**](https://kennethwong12.netlify.app/) for all major projects I have created!
+- [Zone in: Explore the land use zonings and investigate the distribution of zonings in the proximity](https://khwong12.github.io/OZP_buffer_stat/)
+- [Viewshed from Peaks: Where and How Much Can You See](https://khwong12.github.io/viewshed-peaks/)
+- [The great migration: Commute Pattern of workers in Hong Kong](https://kenneth-12.shinyapps.io/place-of-work-od/)
+- [Hong Kong Traffic Injury Collision Database](https://hkdistricts-info.shinyapps.io/trafficcollisions-dev/)
+
+Feel free to check my [**web portfolio**](https://kennethwong12.netlify.app/) for all major projects I have created.
 
 
 ## Connect with me 👨‍💻 
