@@ -1,4 +1,4 @@
-<!-- ![30map_cover](https://user-images.githubusercontent.com/29334677/138759176-57aa6113-6873-481d-9d44-56d610cb5563.png) -->
+![30-day-map-2021_cover](https://user-images.githubusercontent.com/29334677/162561970-cee129eb-7d3e-4b2f-8679-a27baba838fa.jpg)
 
 I am Kenneth Wong. I am a geospatial data analyst with background in urban planning and currently work as a Teaching Assistant for the [Urban Analytics Master Programme](https://www.arch.hku.hk/programmes/upad/master-of-science-in-urban-analytics/) in [Department of Urban Planning and Design, HKU](https://www.arch.hku.hk/programmes_/upad/).
 
