@@ -79,11 +79,11 @@ Miscellaneous
 ## Medium Articles 📰 🗺️
 
 <!-- MEDIUM:START -->
+- [香港新市鎮車路／行人路方向分佈：由道路方向探索新市鎮規劃](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E6%96%B0%E5%B8%82%E9%8E%AE%E8%BB%8A%E8%B7%AF-%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%96%B9%E5%90%91%E5%88%86%E4%BD%88-%E7%94%B1%E9%81%93%E8%B7%AF%E6%96%B9%E5%90%91%E6%8E%A2%E7%B4%A2%E6%96%B0%E5%B8%82%E9%8E%AE%E8%A6%8F%E5%8A%83-e93e29136f6b?source=rss-8b55cde22f50------2)
 - [Replicating “Zoom to selected features” function in ArcGIS / QGIS with R shiny](https://khwongk12.medium.com/replicating-zoom-to-selected-features-function-in-arcgis-qgis-with-r-shiny-652b6c714e6f?source=rss-8b55cde22f50------2)
 - [「另外嗰個」](https://khwongk12.medium.com/%E5%8F%A6%E5%A4%96%E5%97%B0%E5%80%8B-1ce76a8a390?source=rss-8b55cde22f50------2)
 - [Postmortem of my #30DayMapChallenge 2021](https://khwongk12.medium.com/postmortem-of-my-30daymapchallenge-2021-bea278c1f472?source=rss-8b55cde22f50------2)
 - [香港中英文街名後綴地圖](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E4%B8%AD%E8%8B%B1%E6%96%87%E8%A1%97%E5%90%8D%E5%BE%8C%E7%B6%B4%E5%9C%B0%E5%9C%96-efdda08d85bc?source=rss-8b55cde22f50------2)
-- [香港專營巴士公司服務範圍一覽](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E5%B0%88%E7%87%9F%E5%B7%B4%E5%A3%AB%E5%85%AC%E5%8F%B8%E6%9C%8D%E5%8B%99%E7%AF%84%E5%9C%8D%E4%B8%80%E8%A6%BD-8b2f5a091628?source=rss-8b55cde22f50------2)
 <!-- MEDIUM:END -->
 
 
