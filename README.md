@@ -10,7 +10,7 @@ I enjoy making maps (both static and interactive), analysing things in cities, a
 - [Hong Kong Traffic Injury Collision Database](https://hkdistricts-info.shinyapps.io/trafficcollisions-dev/)
 - [Historical Territorial Outline Zoning Plan (OZP) Database *(Beta)*](http://ozpmerged.s3-website.ap-east-1.amazonaws.com/)
 
-Feel free to check my [**web portfolio**](https://kennethwong12.netlify.app/) for all major projects I have created.
+Feel free to check my [**web portfolio**](https://mappyurbanist.com/project/) for all major projects I have created.
 
 
 ## Connect with me 👨‍💻 
