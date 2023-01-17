@@ -79,11 +79,11 @@ Miscellaneous
 ## Medium Articles 📰 🗺️
 
 <!-- MEDIUM:START -->
+- [英國 2011 年至 2021 年十年間香港人口分佈比較](https://khwongk12.medium.com/%E8%8B%B1%E5%9C%8B-2011-%E5%B9%B4%E8%87%B3-2021-%E5%B9%B4%E5%8D%81%E5%B9%B4%E9%96%93%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8F%A3%E5%88%86%E4%BD%88%E6%AF%94%E8%BC%83-149620a57b34?source=rss-8b55cde22f50------2)
 - [看見數據：2012 至 2022 年香港雨量記錄及暴雨警告信號史](https://khwongk12.medium.com/%E7%9C%8B%E8%A6%8B%E6%95%B8%E6%93%9A-2012-%E8%87%B3-2022-%E5%B9%B4%E9%A6%99%E6%B8%AF%E9%9B%A8%E9%87%8F%E8%A8%98%E9%8C%84%E5%8F%8A%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F%E5%8F%B2-ab8b742bee26?source=rss-8b55cde22f50------2)
 - [Introducing — Historical Territorial Outline Zoning Plan &lpar;OZP&rpar; Database &lpar;Beta&rpar;](https://khwongk12.medium.com/introducing-historical-territorial-outline-zoning-plan-ozp-database-beta-b69aaa3285c0?source=rss-8b55cde22f50------2)
 - [香港新市鎮車路／行人路方向分佈：由道路方向探索新市鎮規劃](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E6%96%B0%E5%B8%82%E9%8E%AE%E8%BB%8A%E8%B7%AF-%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%96%B9%E5%90%91%E5%88%86%E4%BD%88-%E7%94%B1%E9%81%93%E8%B7%AF%E6%96%B9%E5%90%91%E6%8E%A2%E7%B4%A2%E6%96%B0%E5%B8%82%E9%8E%AE%E8%A6%8F%E5%8A%83-e93e29136f6b?source=rss-8b55cde22f50------2)
 - [Replicating “Zoom to selected features” function in ArcGIS / QGIS with R shiny](https://khwongk12.medium.com/replicating-zoom-to-selected-features-function-in-arcgis-qgis-with-r-shiny-652b6c714e6f?source=rss-8b55cde22f50------2)
-- [「另外嗰個」](https://khwongk12.medium.com/%E5%8F%A6%E5%A4%96%E5%97%B0%E5%80%8B-1ce76a8a390?source=rss-8b55cde22f50------2)
 <!-- MEDIUM:END -->
 
 
