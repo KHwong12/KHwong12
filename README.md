@@ -1,6 +1,6 @@
 ![30-day-map-2021_cover](https://user-images.githubusercontent.com/29334677/162561970-cee129eb-7d3e-4b2f-8679-a27baba838fa.jpg)
 
-I am Kenneth Wong. I am a geospatial data analyst with background in urban planning and currently work as a Teaching Assistant for the [Urban Analytics Master Programme](https://www.arch.hku.hk/programmes/upad/master-of-science-in-urban-analytics/) in [Department of Urban Planning and Design, HKU](https://www.arch.hku.hk/programmes_/upad/).
+I am Kenneth Wong. I am a geospatial data analyst with background in urban planning. Currently, I am working in the research team of [Colliers](https://www.colliers.com/en-hk). Previously, I worked as a teaching assistant for the [Urban Analytics Master Programme](https://www.arch.hku.hk/programmes/upad/master-of-science-in-urban-analytics/) in [Department of Urban Planning and Design, HKU](https://www.arch.hku.hk/programmes_/upad/).
 
 I enjoy making maps (both static and interactive), analysing things in cities, as well as building cool web map applications. Below are some examples:
 
