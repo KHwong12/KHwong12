@@ -90,11 +90,11 @@ Miscellaneous
 ## Blog Posts 📚 
 
 <!-- BLOG-POST-LIST:START -->
+- [Postmortem of my #30DayMapChallenge 2022](https://urbandatapalette.com/post/2023-01-map-challenge-2022/)
 - [How to: connect lines from two points with same attribute values in QGIS](https://urbandatapalette.com/post/2022-07-connect-lines-from-same-values-pts/)
 - [Replicating “Zoom to selected features” function in ArcGIS / QGIS with R shiny](https://urbandatapalette.com/post/2022-05-shiny-zoom-selected-features/)
 - [Create custom tile layer in Mapbox and use it in R](https://urbandatapalette.com/post/2022-01-custom-tiles-to-r/)
 - [Postmortem of my #30DayMapChallenge 2021](https://urbandatapalette.com/post/2022-01-map-challenge-2021/)
-- [Convert GML/GeoJSON to shapefile with QGIS](https://urbandatapalette.com/post/2021-10-convert-spatial-data-qgis/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://kennethwong12.netlify.app/
