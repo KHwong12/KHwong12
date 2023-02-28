@@ -7,7 +7,7 @@ I enjoy making maps (both static and interactive), analysing things in cities, a
 - [Zone in: Explore the land use zonings and investigate the distribution of zonings in the proximity](https://khwong12.github.io/OZP_buffer_stat/)
 - [Viewshed from Peaks: Where and How Much Can You See](https://khwong12.github.io/viewshed-peaks/)
 - [The great migration: Commute Pattern of workers in Hong Kong](https://kenneth-12.shinyapps.io/place-of-work-od/)
-- [Hong Kong Traffic Injury Collision Database](https://hkdistricts-info.shinyapps.io/trafficcollisions-dev/)
+- [Hong Kong Traffic Injury Collision Database](https://hkdistricts-info.shinyapps.io/trafficcollisions/)
 - [Historical Territorial Outline Zoning Plan (OZP) Database *(Beta)*](http://ozpmerged.s3-website.ap-east-1.amazonaws.com/)
 
 Feel free to check my [**web portfolio**](https://mappyurbanist.com/project/) for all major projects I have created.
