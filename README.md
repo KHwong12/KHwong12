@@ -79,11 +79,11 @@ Miscellaneous
 ## Medium Articles 📰 🗺️
 
 <!-- MEDIUM:START -->
+- [《香港車禍傷亡資料庫》計劃背後 — — pt. 1 項目簡介](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E8%BB%8A%E7%A6%8D%E5%82%B7%E4%BA%A1%E8%B3%87%E6%96%99%E5%BA%AB-%E8%A8%88%E5%8A%83%E8%83%8C%E5%BE%8C-pt-1-%E9%A0%85%E7%9B%AE%E7%B0%A1%E4%BB%8B-339be103dabc?source=rss-8b55cde22f50------2)
 - [看見數據：2022 年城市規劃委員會處理的規劃許可（s.16）申請](https://khwongk12.medium.com/%E7%9C%8B%E8%A6%8B%E6%95%B8%E6%93%9A-2022-%E5%B9%B4%E5%9F%8E%E5%B8%82%E8%A6%8F%E5%8A%83%E5%A7%94%E5%93%A1%E6%9C%83%E8%99%95%E7%90%86%E7%9A%84%E8%A6%8F%E5%8A%83%E8%A8%B1%E5%8F%AF-s-16-%E7%94%B3%E8%AB%8B-6537338e408f?source=rss-8b55cde22f50------2)
 - [The importance of timing: How departure time affects your urban accessibility and journey time](https://khwongk12.medium.com/the-importance-of-timing-how-departure-time-affects-your-urban-accessibility-and-journey-time-24a3c4f05a56?source=rss-8b55cde22f50------2)
 - [看見數據：英國 2011 年至 2021 年十年間香港人口分佈比較](https://khwongk12.medium.com/%E8%8B%B1%E5%9C%8B-2011-%E5%B9%B4%E8%87%B3-2021-%E5%B9%B4%E5%8D%81%E5%B9%B4%E9%96%93%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8F%A3%E5%88%86%E4%BD%88%E6%AF%94%E8%BC%83-149620a57b34?source=rss-8b55cde22f50------2)
 - [看見數據：2012 至 2022 年香港雨量記錄及暴雨警告信號史](https://khwongk12.medium.com/%E7%9C%8B%E8%A6%8B%E6%95%B8%E6%93%9A-2012-%E8%87%B3-2022-%E5%B9%B4%E9%A6%99%E6%B8%AF%E9%9B%A8%E9%87%8F%E8%A8%98%E9%8C%84%E5%8F%8A%E6%9A%B4%E9%9B%A8%E8%AD%A6%E5%91%8A%E4%BF%A1%E8%99%9F%E5%8F%B2-ab8b742bee26?source=rss-8b55cde22f50------2)
-- [Introducing — Historical Territorial Outline Zoning Plan &lpar;OZP&rpar; Database &lpar;Beta&rpar;](https://khwongk12.medium.com/introducing-historical-territorial-outline-zoning-plan-ozp-database-beta-b69aaa3285c0?source=rss-8b55cde22f50------2)
 <!-- MEDIUM:END -->
 
 
