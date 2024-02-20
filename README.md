@@ -79,11 +79,11 @@ Miscellaneous
 ## Medium Articles 📰 🗺️
 
 <!-- MEDIUM:START -->
+- [地圖解：公共交通黎講，青衣盈翠半島有幾「方便」？](https://khwongk12.medium.com/%E5%9C%B0%E5%9C%96%E8%A7%A3-%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E9%BB%8E%E8%AC%9B-%E9%9D%92%E8%A1%A3%E7%9B%88%E7%BF%A0%E5%8D%8A%E5%B3%B6%E6%9C%89%E5%B9%BE-%E6%96%B9%E4%BE%BF-6708cad1b3ce?source=rss-8b55cde22f50------2)
 - [看見數據：當觀塘仍然是打工仔「老母」 — — 香港 2016 年至 2021 年間通勤形態變化](https://khwongk12.medium.com/%E7%9C%8B%E8%A6%8B%E6%95%B8%E6%93%9A-%E7%95%B6%E8%A7%80%E5%A1%98%E4%BB%8D%E7%84%B6%E6%98%AF%E6%89%93%E5%B7%A5%E4%BB%94-%E8%80%81%E6%AF%8D-%E9%A6%99%E6%B8%AF-2016-%E5%B9%B4%E8%87%B3-2021-%E5%B9%B4%E9%96%93%E9%80%9A%E5%8B%A4%E5%BD%A2%E6%85%8B%E8%AE%8A%E5%8C%96-d0c600e82f01?source=rss-8b55cde22f50------2)
 - [《香港車禍傷亡資料庫》計劃背後 — — pt. 1 項目簡介](https://khwongk12.medium.com/%E9%A6%99%E6%B8%AF%E8%BB%8A%E7%A6%8D%E5%82%B7%E4%BA%A1%E8%B3%87%E6%96%99%E5%BA%AB-%E8%A8%88%E5%8A%83%E8%83%8C%E5%BE%8C-pt-1-%E9%A0%85%E7%9B%AE%E7%B0%A1%E4%BB%8B-339be103dabc?source=rss-8b55cde22f50------2)
 - [看見數據：2022 年城市規劃委員會處理的規劃許可（s.16）申請](https://khwongk12.medium.com/%E7%9C%8B%E8%A6%8B%E6%95%B8%E6%93%9A-2022-%E5%B9%B4%E5%9F%8E%E5%B8%82%E8%A6%8F%E5%8A%83%E5%A7%94%E5%93%A1%E6%9C%83%E8%99%95%E7%90%86%E7%9A%84%E8%A6%8F%E5%8A%83%E8%A8%B1%E5%8F%AF-s-16-%E7%94%B3%E8%AB%8B-6537338e408f?source=rss-8b55cde22f50------2)
 - [The importance of timing: How departure time affects your urban accessibility and journey time](https://khwongk12.medium.com/the-importance-of-timing-how-departure-time-affects-your-urban-accessibility-and-journey-time-24a3c4f05a56?source=rss-8b55cde22f50------2)
-- [看見數據：英國 2011 年至 2021 年十年間香港人口分佈比較](https://khwongk12.medium.com/%E8%8B%B1%E5%9C%8B-2011-%E5%B9%B4%E8%87%B3-2021-%E5%B9%B4%E5%8D%81%E5%B9%B4%E9%96%93%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8F%A3%E5%88%86%E4%BD%88%E6%AF%94%E8%BC%83-149620a57b34?source=rss-8b55cde22f50------2)
 <!-- MEDIUM:END -->
 
 
