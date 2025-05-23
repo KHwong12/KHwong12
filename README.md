@@ -79,11 +79,11 @@ Miscellaneous
 ## Medium Articles 📰 🗺️
 
 <!-- MEDIUM:START -->
+- [地圖解：介乎車水馬龍與高樓、四成街道與四成樓宇的詩意](https://khwongk12.medium.com/%E5%9C%B0%E5%9C%96%E8%A7%A3-%E4%BB%8B%E4%B9%8E%E8%BB%8A%E6%B0%B4%E9%A6%AC%E9%BE%8D%E8%88%87%E9%AB%98%E6%A8%93-%E5%9B%9B%E6%88%90%E8%A1%97%E9%81%93%E8%88%87%E5%9B%9B%E6%88%90%E6%A8%93%E5%AE%87%E7%9A%84%E8%A9%A9%E6%84%8F-9fbec7aa6f5d?source=rss-8b55cde22f50------2)
 - [地圖解：嗰區到底有幾舊？](https://khwongk12.medium.com/%E5%9C%B0%E5%9C%96%E8%A7%A3-%E5%97%B0%E5%8D%80%E5%88%B0%E5%BA%95%E6%9C%89%E5%B9%BE%E8%88%8A-37d0b1bc9213?source=rss-8b55cde22f50------2)
 - [地圖解：邊度又有大家樂又有大快活？](https://khwongk12.medium.com/%E5%9C%B0%E5%9C%96%E8%A7%A3-%E9%82%8A%E5%BA%A6%E5%8F%88%E6%9C%89%E5%A4%A7%E5%AE%B6%E6%A8%82%E5%8F%88%E6%9C%89%E5%A4%A7%E5%BF%AB%E6%B4%BB-98360fcd5d54?source=rss-8b55cde22f50------2)
 - [地圖解：邊度有大家樂，邊度有大快活？](https://khwongk12.medium.com/%E5%9C%B0%E5%9C%96%E8%A7%A3-%E9%82%8A%E5%BA%A6%E6%9C%89%E5%A4%A7%E5%AE%B6%E6%A8%82-%E9%82%8A%E5%BA%A6%E6%9C%89%E5%A4%A7%E5%BF%AB%E6%B4%BB-b0f0af5a9dda?source=rss-8b55cde22f50------2)
 - [地圖解：去到 2027 年，香港邊度人口會有增長，邊度人口會流失？](https://khwongk12.medium.com/%E5%9C%B0%E5%9C%96%E8%A7%A3-%E5%8E%BB%E5%88%B0-2027-%E5%B9%B4-%E9%A6%99%E6%B8%AF%E9%82%8A%E5%BA%A6%E4%BA%BA%E5%8F%A3%E6%9C%83%E6%9C%89%E5%A2%9E%E9%95%B7-%E9%82%8A%E5%BA%A6%E4%BA%BA%E5%8F%A3%E6%9C%83%E6%B5%81%E5%A4%B1-c73bc9f4001c?source=rss-8b55cde22f50------2)
-- [看見數據：城市規劃委員會 2023 年所處理的規劃許可申請](https://khwongk12.medium.com/%E7%9C%8B%E8%A6%8B%E6%95%B8%E6%93%9A-%E5%9F%8E%E5%B8%82%E8%A6%8F%E5%8A%83%E5%A7%94%E5%93%A1%E6%9C%83-2023-%E5%B9%B4%E6%89%80%E8%99%95%E7%90%86%E7%9A%84%E8%A6%8F%E5%8A%83%E8%A8%B1%E5%8F%AF%E7%94%B3%E8%AB%8B-68afba126e7c?source=rss-8b55cde22f50------2)
 <!-- MEDIUM:END -->
 
 
